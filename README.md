@@ -24,11 +24,6 @@
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=flat-square&logo=instagram&logoColor=9d7fd4)](https://www.instagram.com/thisc0ffeeisfunny)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=thisc0ffeeisfunny&color=2d0a6e&style=flat-square&label=profile+views)
-&nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/thisc0ffeeisfunny?style=flat-square&color=2d0a6e&labelColor=0d0d0d&label=followers)
 
 </div>
 
@@ -39,16 +34,15 @@
 <br/>
 
 ```yaml
-▸ name       :  Sujal Raj
-▸ degree     :  B.Tech CSE — AI / ML Specialisation
-▸ university :  Bennett University, Greater Noida
-▸ location   :  Delhi, India
-▸ pronouns   :  he / him
+▸ Name       :  Sujal Raj
+▸ Degree     :  B.Tech CSE — AI / ML Specialisation
+▸ University :  Bennett University, Greater Noida
+▸ Location   :  Delhi, India
+▸ Pronouns   :  he / him
 
 ▸ focus      :  [ AI/ML · Embedded Systems · IoT · Robotics · Aerospace ]
 
 ▸ building   :  Mochi OS         → expressive AI assistant robot (RPi 5 + ESP32-S3)
-                CAN-7USAT        → CanSat mission for IN-SPACe 2026
 
 ▸ open to    :  [ internships · open source · hardware × software collabs ]
 ```
