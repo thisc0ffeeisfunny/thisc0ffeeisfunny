@@ -1,6 +1,6 @@
 <div align="center">
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Sujal%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTech%20CSE%20%28AI%2FML%29%20%40%20Bennett%20University&descAlignY=55&descAlign=50)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Sujal%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTech%20CSE%20%28AI%2FML%29%20%40%20Bennett%20University&descAlignY=62&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Embedded+Systems+%26+Firmware+Developer;AI+%2F+ML+Engineer+in+Training;IoT+%26+Robotics+Builder;CanSat+Mission+Engineer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
