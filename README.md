@@ -28,20 +28,18 @@
 ## 🧠 About Me
 
 ```yaml
-name: Sujal Raj
-university: Bennett University, Greater Noida
-degree: B.Tech CSE — AI / ML Specialisation
-location: Delhi, India
-pronouns: he/him
+Name: Sujal Raj
+University: Bennett University, Greater Noida
+Degree: B.Tech CSE — AI / ML Specialisation
+Location: Delhi, India
+Pronouns: he/him
 
-focus:
-  - Embedded Systems & Firmware Development
+Focus:
   - Artificial Intelligence & Machine Learning
   - IoT, Robotics & DIY Hardware
   - Aerospace & CanSat Engineering
 
 currently_building:
-  - CAN-7USAT  → CanSat for IN-SPACe 2026
   - Mochi OS   → AI assistant robot (RPi 5 + ESP32-S3)
 
 open_to:
