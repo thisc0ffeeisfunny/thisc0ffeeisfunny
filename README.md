@@ -1,16 +1,42 @@
-## Hi there 👋
+# hey, I'm Sujal 👋
 
-<!--
-**thisc0ffeeisfunny/thisc0ffeeisfunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech CSE (AI/ML) @ Bennett University · Delhi, India
 
-Here are some ideas to get you started:
+I like building things that exist in the physical world — firmware, robots, satellites, and the occasional LED lamp that gets out of hand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## what I'm working on
+
+- 🤖 **Mochi OS** — AI assistant robot. 
+
+---
+
+## stack
+
+**Embedded & Hardware**
+`C/C++` `ESP32` `Raspberry Pi` `Arduino` `PlatformIO` 
+
+**Software**
+`Python` `JavaScript` `Java` `Spring Boot` `Node.js`
+
+**Tools**
+`Git` `VS Code` 
+
+---
+
+## domains I care about
+
+`Embedded Systems` · `IoT` · `Robotics` · `AI/ML` · `Aerospace` · `DIY / Hardware Hacking`
+
+---
+
+## find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-raj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thisc0ffeeisfunny)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sujalraj1305@gmail.com)
+
+---
+
+<sub>currently: writing firmware by day, soldering things by night</sub>
