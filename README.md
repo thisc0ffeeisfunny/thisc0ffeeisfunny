@@ -192,7 +192,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=9d7fd4)](https://www.linkedin.com/in/sujal-raj-12abab383)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=9d7fd4)](https://www.linkedin.com/in/sujal-raj-12abab383)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=9d7fd4)](mailto:sujalraj1305@gmail.com)
 &nbsp;
