@@ -114,29 +114,6 @@ open_to:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Sujal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisc0ffeeisfunny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6A0DAD&text_color=ffffff&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisc0ffeeisfunny&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=thisc0ffeeisfunny&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=6A0DAD&currStreakLabel=A855F7)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=thisc0ffeeisfunny&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10)
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
