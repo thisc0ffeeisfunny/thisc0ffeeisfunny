@@ -78,17 +78,6 @@ open_to:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ---
 
-## 🤖 AI / ML Expertise
-
-| Domain | Tools / Frameworks | Level |
-|---|---|---|
-| Machine Learning | scikit-learn, NumPy, Pandas | Intermediate |
-| Computer Vision | OpenCV | Intermediate |
-| Deep Learning | TensorFlow (learning) | Beginner |
-| On-Device AI | ESP32-S3, RPi 5 inference | Intermediate |
-| AI Integration | REST APIs, Java Spring Boot | Intermediate |
-
----
 
 ## 🚀 Featured Projects
 
