@@ -1,178 +1,213 @@
 <div align="center">
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Sujal%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTech%20CSE%20%28AI%2FML%29%20%40%20Bennett%20University&descAlignY=62&descAlign=50)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Embedded+Systems+%26+Firmware+Developer;AI+%2F+ML+Engineer+in+Training;IoT+%26+Robotics+Builder;CanSat+Mission+Engineer;Open+Source+Enthusiast)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d0a6e&height=220&section=header&text=Sujal%20Raj&fontSize=64&fontColor=e2d9f3&animation=fadeIn&fontAlignY=38&desc=BTech%20CSE%20%28AI%2FML%29%20%E2%80%A2%20Bennett%20University&descAlignY=60&descAlign=50&descSize=18&descColor=9d7fd4)
 
 <br/>
 
-![Bennett University](https://img.shields.io/badge/Bennett_University-BTech_CSE_(AI%2FML)-6A0DAD?style=for-the-badge&logo=academia&logoColor=white)
-![India](https://img.shields.io/badge/Delhi,_India-📍-FF6B35?style=for-the-badge)
-![Open To Work](https://img.shields.io/badge/Open_To-Internships_%26_Collabs-22C55E?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=9D7FD4&center=true&vCenter=true&width=620&lines=Embedded+Systems+%26+Firmware+Developer;AI+%2F+ML+Engineer+in+Training;IoT+%26+Robotics+Builder;CanSat+Mission+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-raj-12abab383)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalraj1305@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thisc0ffeeisfunny)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thisc0ffeeisfunny)
+![](https://img.shields.io/badge/Bennett%20University-BTech%20CSE%20(AI%2FML)-1a0533?style=flat-square&logoColor=9d7fd4&labelColor=0d0d0d&color=2d0a6e)
+&nbsp;
+![](https://img.shields.io/badge/Delhi%2C%20India-0d0d0d?style=flat-square&logo=googlemaps&logoColor=9d7fd4&labelColor=0d0d0d&color=1a0533)
+&nbsp;
+![](https://img.shields.io/badge/Open%20to%20Internships-0d0d0d?style=flat-square&logo=hand&logoColor=9d7fd4&labelColor=0d0d0d&color=1a0533)
 
-![Profile Views](https://komarev.com/ghpvc/?username=thisc0ffeeisfunny&color=6A0DAD&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/thisc0ffeeisfunny?style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=FOLLOWERS)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=9d7fd4)](https://www.linkedin.com/in/sujal-raj-12abab383)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=flat-square&logo=gmail&logoColor=9d7fd4)](mailto:sujalraj1305@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=9d7fd4)](https://github.com/thisc0ffeeisfunny)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=flat-square&logo=instagram&logoColor=9d7fd4)](https://www.instagram.com/thisc0ffeeisfunny)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=thisc0ffeeisfunny&color=2d0a6e&style=flat-square&label=profile+views)
+&nbsp;&nbsp;
+![Followers](https://img.shields.io/github/followers/thisc0ffeeisfunny?style=flat-square&color=2d0a6e&labelColor=0d0d0d&label=followers)
 
 </div>
 
----
-
-## 🧠 About Me
-
-```yaml
-Name: Sujal Raj
-University: Bennett University, Greater Noida
-Degree: B.Tech CSE — AI / ML Specialisation
-Location: Delhi, India
-Pronouns: he/him
-
-Focus:
-  - Artificial Intelligence & Machine Learning
-  - IoT, Robotics & DIY Hardware
-  - Aerospace & CanSat Engineering
-
-currently_building:
-  - Mochi OS   → AI assistant robot (RPi 5 + ESP32-S3)
-
-open_to:
-  - Internships (embedded / AI / full-stack)
-  - Open source collaboration
-  - Hardware + software hybrid projects
-```
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Embedded & Hardware**
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
-
-**Backend & Databases**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
----
-
-
-## 🚀 Featured Projects
-
-<details>
-<summary><b>🤖 Mochi OS — AI Assistant Robot</b></summary>
 <br/>
 
-> An expressive AI assistant robot with emotional display and voice interaction.
+---
 
-| Attribute | Details |
+<br/>
+
+```yaml
+▸ name       :  Sujal Raj
+▸ degree     :  B.Tech CSE — AI / ML Specialisation
+▸ university :  Bennett University, Greater Noida
+▸ location   :  Delhi, India
+▸ pronouns   :  he / him
+
+▸ focus      :  [ AI/ML · Embedded Systems · IoT · Robotics · Aerospace ]
+
+▸ building   :  Mochi OS         → expressive AI assistant robot (RPi 5 + ESP32-S3)
+                CAN-7USAT        → CanSat mission for IN-SPACe 2026
+
+▸ open to    :  [ internships · open source · hardware × software collabs ]
+```
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;⬡&nbsp; Stack
+
+<br/>
+
+**`Languages`**
+
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=9d7fd4)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=9d7fd4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=9d7fd4)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=9d7fd4)
+
+**`Embedded & Hardware`**
+
+![ESP32](https://img.shields.io/badge/ESP32-0d0d0d?style=flat-square&logo=espressif&logoColor=9d7fd4)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0d0d0d?style=flat-square&logo=raspberrypi&logoColor=9d7fd4)
+![Arduino](https://img.shields.io/badge/Arduino-0d0d0d?style=flat-square&logo=arduino&logoColor=9d7fd4)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-0d0d0d?style=flat-square&logo=platformio&logoColor=9d7fd4)
+
+**`Backend & Data`**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0d0d0d?style=flat-square&logo=springboot&logoColor=9d7fd4)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=9d7fd4)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=9d7fd4)
+
+**`Tools`**
+
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=9d7fd4)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=flat-square&logo=visualstudiocode&logoColor=9d7fd4)
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;⬡&nbsp; Projects
+
+<br/>
+
+<details>
+<summary>&nbsp;<b>🤖 &nbsp;Mochi OS — AI Assistant Robot</b></summary>
+<br/>
+
+> Expressive AI assistant with emotional display and voice interaction, built around RPi 5 + ESP32-S3.
+
+| | |
 |---|---|
-| Stack | Python, C++, Raspberry Pi 5, ESP32-S3 |
+| Stack | `Python` `C++` `Raspberry Pi 5` `ESP32-S3` |
 | Displays | 6× SPI TFT screens for emotional expression |
-| Audio | I2S microphone, voice command processing |
-| Comms | UART inter-controller, WiFi |
-| Repository | [View Repo](#) |
+| Audio | I2S microphone, voice command pipeline |
+| Comms | UART inter-controller · WiFi |
+| Repo | [View →](#) |
 
+<br/>
 </details>
 
 <details>
-<summary><b>🌱 CLEANOSPHERE — AI Waste Management System</b></summary>
+<summary>&nbsp;<b>🛰️ &nbsp;CAN-7USAT — CanSat Mission</b></summary>
 <br/>
 
-> An AI-powered waste classification web app with image recognition.
+> Fully functional CanSat built for IN-SPACe 2026 national competition.
 
-| Attribute | Details |
+| | |
 |---|---|
-| Stack | Java, Spring Boot, MySQL |
-| AI Feature | Trash image analysis & waste categorization |
-| Architecture | REST API backend, user authentication |
-| Repository | [CLEANOSPHERE](https://github.com/thisc0ffeeisfunny/CLEANOSPHERE) |
+| Stack | `C++` `FreeRTOS` `ESP32` `Python` |
+| Architecture | 8-state flight FSM · dual-core task scheduling |
+| Hardware | Hall sensor release · barometric altimeter · IMU · GPS |
+| Ground Station | Real-time GCS dashboard with telemetry graphs |
+| Repo | [View →](#) |
 
+<br/>
 </details>
 
+<details>
+<summary>&nbsp;<b>🌱 &nbsp;CLEANOSPHERE — AI Waste Management</b></summary>
+<br/>
+
+> AI-powered waste classification system with image recognition.
+
+| | |
+|---|---|
+| Stack | `Java` `Spring Boot` `MySQL` |
+| AI | Trash image analysis & waste categorization |
+| Architecture | REST API backend · user authentication |
+| Repo | [CLEANOSPHERE →](https://github.com/thisc0ffeeisfunny/CLEANOSPHERE) |
+
+<br/>
+</details>
+
+<br/>
+
 ---
 
+<br/>
 
-## 📈 Contribution Activity
+## &nbsp;⬡&nbsp; Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thisc0ffeeisfunny&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=6A0DAD&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thisc0ffeeisfunny&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=9d7fd4&line=2d0a6e&point=e2d9f3&area=true&area_color=1a0533)
 
 </div>
 
+<br/>
+
 ---
 
-## 🐍 Contribution Snake
+<br/>
+
+## &nbsp;⬡&nbsp; Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/thisc0ffeeisfunny/thisc0ffeeisfunny/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/thisc0ffeeisfunny/thisc0ffeeisfunny/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
+<br/>
+
 ---
 
-## 🎯 Current Focus
+<br/>
 
 ```yaml
-learning:
-  - PCB design (KiCad)
+▸ learning   :  PCB design (KiCad) · Deep Learning · RTOS internals
 
-building:
-  - Mochi OS emotion engine
-
-exploring:
-  - Edge AI on microcontrollers
-  - Computer vision for robotics
-
-open_to:
-  - Embedded systems internships
-  - AI/ML research collaboration
-  - Hardware + software hybrid projects
+▸ exploring  :  Edge AI on microcontrollers
+                Computer vision for robotics
+                Satellite communication protocols
 ```
 
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-raj-12abab383)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalraj1305@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thisc0ffeeisfunny)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thisc0ffeeisfunny)
-
-</div>
+<br/>
 
 ---
 
+<br/>
+
 <div align="center">
 
-*"The best way to predict the future is to build it."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=9d7fd4)](https://www.linkedin.com/in/sujal-raj-12abab383)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=9d7fd4)](mailto:sujalraj1305@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=9d7fd4)](https://github.com/thisc0ffeeisfunny)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=9d7fd4)](https://www.instagram.com/thisc0ffeeisfunny)
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer)
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d0a6e,50:1a0533,100:0d0d0d&height=140&section=footer)
 
 </div>
