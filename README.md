@@ -33,7 +33,7 @@ I like building things that exist in the physical world — firmware, robots, sa
 
 ## find me
 
-[![LinkedIn](linkedin.com/in/sujal-raj-12abab383)
+[![LinkedIn]([![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-raj-12abab383))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thisc0ffeeisfunny)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sujalraj1305@gmail.com)
 
