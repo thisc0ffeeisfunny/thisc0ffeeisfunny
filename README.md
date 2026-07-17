@@ -16,7 +16,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/linked-in-0d0d0d?style=flat-square&logo=linkedin&logoColor=9d7fd4)](https://www.linkedin.com/in/sujal-raj-12abab383)
+<a href="https://www.linkedin.com/in/sujal-raj-12abab383"><img src="https://img.shields.io/badge/-LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=9d7fd4"/></a>
 [![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=flat-square&logo=gmail&logoColor=9d7fd4)](mailto:sujalraj1305@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=9d7fd4)](https://github.com/thisc0ffeeisfunny)
