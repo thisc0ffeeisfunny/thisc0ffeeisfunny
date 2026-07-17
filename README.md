@@ -82,22 +82,6 @@ open_to:
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🛰️ CAN-7USAT — CanSat Mission (IN-SPACe 2026)</b></summary>
-<br/>
-
-> A fully functional CanSat built for the IN-SPACe 2026 national competition.
-
-| Attribute | Details |
-|---|---|
-| Stack | C++, FreeRTOS, ESP32, LoRa, Python |
-| Architecture | 8-state flight FSM, dual-core task scheduling |
-| Hardware | Hall sensor release, barometric altimeter, IMU, GPS |
-| Ground Station | Real-time GCS dashboard with telemetry graphs |
-| Repository | [View Repo](#) |
-
-</details>
-
-<details>
 <summary><b>🤖 Mochi OS — AI Assistant Robot</b></summary>
 <br/>
 
@@ -125,21 +109,6 @@ open_to:
 | AI Feature | Trash image analysis & waste categorization |
 | Architecture | REST API backend, user authentication |
 | Repository | [CLEANOSPHERE](https://github.com/thisc0ffeeisfunny/CLEANOSPHERE) |
-
-</details>
-
-<details>
-<summary><b>📺 ESP32-S3 Video Looper</b></summary>
-<br/>
-
-> Streaming RGB565 video frames from FAT32 flash to a TFT display at usable framerates.
-
-| Attribute | Details |
-|---|---|
-| Stack | C++, Arduino, Adafruit ST7735 |
-| Hardware | ESP32-S3 + PSRAM, 128×160 TFT |
-| Pipeline | FFmpeg → raw RGB565 → FAT32 flash |
-| Repository | [View Repo](#) |
 
 </details>
 
