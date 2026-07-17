@@ -162,18 +162,13 @@ open_to:
 
 ```yaml
 learning:
-  - Deep Learning & Neural Networks
-  - RTOS internals & bare-metal firmware
   - PCB design (KiCad)
 
 building:
-  - CAN-7USAT flight firmware
   - Mochi OS emotion engine
-  - ESP32 video pipeline
 
 exploring:
   - Edge AI on microcontrollers
-  - Satellite communication protocols
   - Computer vision for robotics
 
 open_to:
