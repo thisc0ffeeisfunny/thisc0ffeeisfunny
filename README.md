@@ -16,14 +16,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=9d7fd4)](https://www.linkedin.com/in/sujal-raj-12abab383)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=flat-square&logo=gmail&logoColor=9d7fd4)](mailto:sujalraj1305@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=9d7fd4)](https://github.com/thisc0ffeeisfunny)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=flat-square&logo=instagram&logoColor=9d7fd4)](https://www.instagram.com/thisc0ffeeisfunny)
-
+[![LinkedIn](https://img.shields.io/badge/in-0d0d0d?style=flat-square&logo=linkedin&logoColor=9d7fd4)](https://www.linkedin.com/in/sujal-raj-12abab383)
+[![Gmail](https://img.shields.io/badge/mail-0d0d0d?style=flat-square&logo=gmail&logoColor=9d7fd4)](mailto:sujalraj1305@gmail.com)
+[![GitHub](https://img.shields.io/badge/gh-0d0d0d?style=flat-square&logo=github&logoColor=9d7fd4)](https://github.com/thisc0ffeeisfunny)
+[![Instagram](https://img.shields.io/badge/ig-0d0d0d?style=flat-square&logo=instagram&logoColor=9d7fd4)](https://www.instagram.com/thisc0ffeeisfunny)
 
 </div>
 
