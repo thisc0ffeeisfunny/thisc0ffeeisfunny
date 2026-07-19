@@ -39,7 +39,7 @@
 
 ▸ focus      :  [ AI/ML · Embedded Systems · IoT · Robotics · Aerospace ]
 
-▸ building   :  Mochi OS         → expressive AI assistant robot (RPi 5 + ESP32-S3)
+▸ building   :  Mochi OS      → expressive AI assistant robot (RPi 5 + ESP32-S3)
 
 ▸ open to    :  [ internships · open source · hardware × software collabs ]
 ```
